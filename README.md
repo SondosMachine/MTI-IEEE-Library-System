@@ -1,4 +1,4 @@
-# MTI Smart Library Management System 📚
+# MTI IEEE Smart Library Management System 📚
 
 A professional Python-based CLI application for managing university library records, focusing on data persistence and automated reservation logic.
 
