@@ -1,8 +1,12 @@
 # -------------------------------------------------------------------------
-# Project: MTI Smart Library Management System
-# Developer: Sondos (Faculty of Computing & IT)
-# Version: 4.0 (Final Stable Release)
-# Core Logic: Data Persistence, User Reservation, and Auto-Date Calculation
+# Project: MTI IEEE Smart Library Management System
+# Developer: Sondos (Faculty of CS & AI)
+# Architecture: Data-Centric CRUD Operations
+# Version: 1.0 (Stable Release)
+# ---------------------------------------------------------
+# Note: This project implements automated logic to simulate 
+# intelligent book reservation, laying the foundation for 
+# future AI-driven recommendation features.
 # -------------------------------------------------------------------------
 
 import json
